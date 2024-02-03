@@ -6,11 +6,16 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
+    
 }
-body{
-    background-color: #222;
-   
+html
+{
+    background-image:  url('../bk.jpg');
+    background-repeat: no-repeat;
+    
+    
 }
+
 .card{
     width: 90%;
     max-width: 470px;
