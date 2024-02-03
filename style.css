@@ -96,6 +96,50 @@ html
     font-size: 28px;
     margin-top: -6px;
 }
-@media screen( max-width: 360px) {
+@media screen and (max-width: 470px){
+    .card{
+        margin-top: 50px;
+        width: 90%;
+        max-width: 360px;
+    } 
+    .search button{
+        width: 40px;
+        height: 40px;
+        cursor: pointer;
+        
+    }
+    .search input{
+        border: 0;
+        outline: 0;
+        background: #ebfffc;
+        color: #555;
+        padding: 10px 25px;
+        height: 40px;
+        width: 80px;
+        border-radius: 30px;
+        font-size: 14px;
+        display: flex;
+        justify-content: center;
     
+    }
+    .col{
+        display: flex;
+        align-items: center;
+        text-align: left;
+        justify-content: center;
+    }
+    .col img{
+        width: 30px;
+        margin-right: 10px;
+    }
+    .humidity, .wind{
+        font-size: 14px;
+        margin-top: -6px;
+    }
+    .humidity-p, .wind-p{
+        font-size: 14px;
+    }
+    .humidity-p{
+        margin-right: 20px;
+    }
 }
