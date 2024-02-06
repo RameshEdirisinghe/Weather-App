@@ -12,6 +12,9 @@
             <input type="text" placeholder="enter city name" spellcheck="false">
             <button><img src="images/search.png" ></button>
         </div>
+        <di class="error">
+            <p>Inavlid City name</p>
+        </di>
         <div class="weather">
             <img src="images/rain.png" alt="weather-icon" class="weather-icon">
             <h1 class="temp">22°c</h1>
@@ -34,19 +37,6 @@
             </div>
         </div>
     </div>
-<script>
-    const apiKey ="";
-    const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=bangalore";
-
-    async function checkWeather(){
-        const response = await fetch(apiUrl + `&appid=${apiKey}`);
-        var data= await response.json();
-
-        console.log(data);
-
-        document.querySelector(".city").innerHTML = data.name;
-        document.querySelector(".temp").innerHTML = data.name;
-    }
-</script>
+<script src="script.js" ></script>
 </body>
 </html>
