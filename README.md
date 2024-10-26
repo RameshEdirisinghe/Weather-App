@@ -14,12 +14,12 @@ A simple and responsive weather application built with HTML, CSS, and JavaScript
 - **Customizable Search**: Allows users to search weather data by entering any city.
 
 ## Live Demo
-Check out the deployed app here.![DeployLink](https://rameshedirisinghe.github.io/Weather-App/)
+Check out the deployed app here.<a href="[url](https://rameshedirisinghe.github.io/Weather-App/)">Deploy Link</a>
 
 <br>
 ## Screenshots
 
-![Main Interface](images/app_main_screenshot.png)
+![Main Interface](https://github.com/RameshEdirisinghe/Weather-App/blob/3c994dcf9239305d8b6852e0884bbf893e003b0c/Screenshot%202024-10-27%20013331.png)
 
 
 <br>
