@@ -18,6 +18,8 @@ A simple and responsive weather application built with HTML, CSS, and JavaScript
 ![Main Interface](images/app_main_screenshot.png)
 
 
+## Live Demo
+Check out the deployed app here.
 
 ## Installation
 
