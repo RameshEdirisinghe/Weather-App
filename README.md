@@ -13,14 +13,16 @@ A simple and responsive weather application built with HTML, CSS, and JavaScript
 - **Location Detection**: Option to auto-detect the user’s location for quick access to local weather.
 - **Customizable Search**: Allows users to search weather data by entering any city.
 
+## Live Demo
+Check out the deployed app here.![DeployLink](https://rameshedirisinghe.github.io/Weather-App/)
+
+<br>
 ## Screenshots
 
 ![Main Interface](images/app_main_screenshot.png)
 
 
-## Live Demo
-Check out the deployed app here.
-
+<br>
 ## Installation
 
 1. **Clone the Repository**  
