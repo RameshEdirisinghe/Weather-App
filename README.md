@@ -17,12 +17,14 @@ A simple and responsive weather application built with HTML, CSS, and JavaScript
 Check out the deployed app here.<a href="[url](https://rameshedirisinghe.github.io/Weather-App/)">Deploy Link</a>
 
 <br>
+
 ## Screenshots
 
 ![Main Interface](https://github.com/RameshEdirisinghe/Weather-App/blob/3c994dcf9239305d8b6852e0884bbf893e003b0c/Screenshot%202024-10-27%20013331.png)
 
 
 <br>
+
 ## Installation
 
 1. **Clone the Repository**  
